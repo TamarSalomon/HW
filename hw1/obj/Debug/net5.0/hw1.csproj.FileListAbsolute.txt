@@ -1,0 +1,7 @@
+Z:\B\סלומון תמר\hw1\obj\Debug\net5.0\hw1.csproj.AssemblyReference.cache
+Z:\B\סלומון תמר\hw1\obj\Debug\net5.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\סלומון תמר\hw1\obj\Debug\net5.0\hw1.AssemblyInfoInputs.cache
+Z:\B\סלומון תמר\hw1\obj\Debug\net5.0\hw1.AssemblyInfo.cs
+Z:\B\סלומון תמר\hw1\obj\Debug\net5.0\hw1.csproj.CoreCompileInputs.cache
+Z:\B\סלומון תמר\hw1\obj\Debug\net5.0\hw1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\סלומון תמר\hw1\obj\Debug\net5.0\hw1.MvcApplicationPartsAssemblyInfo.cache
